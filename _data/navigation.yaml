@@ -1,9 +1,6 @@
 -
- name: about/contact
- slug: about
+ name: The Whole Story Podcast
+ slug: "/"
 -
- name: news
- slug: news
--
- name: Proud Mary
- slug: proud-mary
+ name: Return to Nous Entertainment
+ slug: "http://www.whatsnous.com/"
