@@ -12,7 +12,7 @@ contributors:
  - asher-novek
  - julia-whitehouse
 
-podcast_link: '//the-whole-story.whatsnous.com/uploads/podcasts/the_whole_story_episode_0_part_1_2016.mp3'
+podcast_link: 'https://the-whole-story.whatsnous.com/uploads/podcasts/the_whole_story_episode_0_part_1_2016.mp3'
 podcast_file_size: 20.4 MB
 podcast_duration: 14:30
 podcast_length: 20879310
