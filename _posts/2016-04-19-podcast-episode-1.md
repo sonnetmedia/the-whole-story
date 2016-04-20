@@ -3,6 +3,9 @@ title: Podcast One
 published: true
 date: 2016-04-20T12:00:00.000Z
 category: podcast
+tags:
+ - storytelling
+ - podcasts
 description: "Adam Scherr, Asher Novek, Julia Whitehouse, the Whole Story, storytelling podcast"
 contributors:
  - adam-scherr
