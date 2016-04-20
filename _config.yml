@@ -93,3 +93,8 @@ defaults:
     values:
       layout: page
       splash_image: splash-the-whole-storyx500.png
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false
