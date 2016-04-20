@@ -19,17 +19,17 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-            
+
     <link rel="alternate" type="application/rss+xml" href="/index.xml" title="RSS Feed">
 
 
     {% if page.url %}
-      <link rel="canonical" href="{{site.baseurl}}{{ page.url }}" />
+      <link rel="canonical" href="{{site.url}}{{ page.url }}" />
     {% endif %}
 
-    <link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="{{site.url}}/favicon.ico" type="image/x-icon">
         <!-- Stylesheets -->
-      <link href='{{site.baseurl}}/assets/css/screen.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
+      <link href='/assets/css/screen.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
 
 
 
