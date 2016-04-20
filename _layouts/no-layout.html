@@ -1,0 +1,20 @@
+---
+layout: default
+index: false
+---
+{% if page.splash_image %}
+	{% include snippets/page-splash.html %}
+	{% else %}
+	<div class='splash'>
+		<img src="/assets/img/nous-master-5.png" class="title-image">
+	</div>
+
+{% endif %}
+  <article class="hentry">
+    {{ content }}
+  </article>
+  <aside class="top{% if page.description  %} content-aside{% endif %}">
+    {% if page.description  %}
+      {{ page.description  | markdownify }}
+    {% endif %}
+  </aside>

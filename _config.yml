@@ -39,7 +39,7 @@ podcast_subtitle: "The Whole Story, storytelling podcast"
 permalink:  pretty
 # Dependencies
 #Pages - store all pages in the _pages directory
-include: ['_pages']
+include: ['_pages', '_cms.html']
 relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
 exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules']
 
