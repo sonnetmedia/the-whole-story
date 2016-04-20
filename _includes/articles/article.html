@@ -29,6 +29,8 @@
     {% endif %}
 
     {{ content }}
+{% include snippets/subscribe-buttons.html %}
+
     {% if page.file %}
     <small><a href="/assets/files/{{page.file}}">DOWNLOAD</a></small>
   {% endif %}
