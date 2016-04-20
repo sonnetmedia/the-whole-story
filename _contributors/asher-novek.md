@@ -2,6 +2,7 @@
 title: Asher Novek
 type:
   - staff
+image_path: 
 slug: asher-novek
 ---
 

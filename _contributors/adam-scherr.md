@@ -2,6 +2,7 @@
 title: Adam Scherr
 type:
   - executive
+image_path:
 slug: adam-scherr
 ---
 

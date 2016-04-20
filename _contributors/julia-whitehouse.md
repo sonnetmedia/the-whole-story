@@ -2,6 +2,7 @@
 title: Julia Whitehouse
 type:
   - staff
+image_path: 
 slug: julia-whitehouse
 ---
 
