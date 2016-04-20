@@ -6,20 +6,24 @@
   $hero-background-bottom: #20392B;
   $hero-color: white;
   $gradient-angle: 10deg;
-  //$hero-image: "https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png";
-$hero-image: "/assets/img/hero-bottom-the-whole-story.png";
-  //background: url($hero-image),
-    //          linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top),
-      //        no-repeat $hero-background-top scroll;
-  background-color: $base-accent-color;
-  background-position: bottom;
-  background-repeat: repeat-x;
-  //background-size: c;
-  background-image: $hero-image;
+  $hero-image: "/assets/img/hero-the-whole-story.svg";
+
+  // background: url($hero-image),
+  //             linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top),
+  //             no-repeat $hero-background-top scroll;
+  background: url($hero-image);
+  background-color: $purple;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   //padding-bottom: 3em;
-  min-height: 60vh;
-
-
+  //min-height: 220px;
+  background-size: 100%;
+  min-height: 45vh;
+  @include media($large-screen) {
+    //background-position: bottom;
+  min-height: 90vh;
+  }
 
   .hero-logo img {
     height: 4em;
