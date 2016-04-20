@@ -4,5 +4,10 @@ section: page
 ---
 {% if page.splash_image %}
 	{% include snippets/page-splash.html %}
+	{% else %}
+	<div class='splash'>
+		<img src="/assets/img/nous-master-5.png" class="title-image">
+	</div>
+
 {% endif %}
 {% include articles/article.html %}

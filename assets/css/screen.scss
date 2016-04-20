@@ -17,20 +17,19 @@ layout: null
 @import "_sass/modules/page-splash";
 @import "_sass/modules/footer";
 @import "_sass/modules/lists";
-.wrapper {
-	background: url(/assets/img/nous-master.png) no-repeat 50% 10%;
-
-// 	@include media ($e-vp) {
-// 		background: url(/assets/img/nous-master.png) no-repeat 50% 9%;
+// .wrapper {
+// 	background: url(/assets/img/Whole-Story-cover.png) no-repeat 50% 10%;
+//
+// // 	@include media ($e-vp) {
+// // 		background: url(/assets/img/nous-master.png) no-repeat 50% 9%;
+// // }
+//
 // }
-
-}
-
-body .wrapper {
-	background: url(/assets/img/nous-master.png) no-repeat 50% 4.525%;
-
-}
-
+//
+// body .wrapper {
+// 	background: url(/assets/img/Whole-Story-cover.png) no-repeat 50% 4.525%;
+//
+// }
 
 body.home {
 	h1, h2 {
