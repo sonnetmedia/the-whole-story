@@ -34,7 +34,7 @@
     {{ content }}
     {% if page.podcast_link %}
       <h4>listen</h4>
-      <audio controls>
+      <audio controls preload="auto">
         <source src="{{ page.podcast_link }}" type="audio/mpeg">
       </audio>
       <br />
