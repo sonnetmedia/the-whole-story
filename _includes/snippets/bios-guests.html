@@ -1,0 +1,23 @@
+
+
+
+
+
+{% comment %}         {% assign post_author = theauthor[0].title %}
+         by <strong>{{ post_author }}</strong>
+ {% endcomment %}
+
+
+
+<article class="hentry prose">
+  <h2>Bios</h2>
+{% for item in page.contributors %}
+  {% assign guests = site.contributors | where: 'slug', item %}
+  {% for object in guests %}
+    <h3>
+      {{ object.title }}
+    </h3>
+    {{ object.content | markdownify }}
+  {% endfor %}
+{% endfor %}
+</article>

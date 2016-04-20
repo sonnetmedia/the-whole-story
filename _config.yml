@@ -1,6 +1,6 @@
-url: http://www.whatsnous.com
-sitename: 'Nous Entertainment, LLC'
-description: 'Storytellers who celebrate the strength and depth of the human intellect and its ability to create joy as well as enact change'
+url: http://the-whole-story.whatsnous.com
+sitename: 'The Whole Story Podcast, produced by Nous Entertainment'
+description: 'The Whole Story is a podcast modeled after that panel discussion at storytelling festivals that you always miss. '
 mission_statement: "We are storytellers who celebrate the strength and depth of the human intellect and its ability to create joy as well as enact change. We use film – including theatrical, feature-length, digital and television formats – as our vehicle for distributing inspiring narratives and entertaining stories."
 
 categories:
@@ -11,6 +11,23 @@ type:
   - guest
   - staff
   - executive
+
+podcast_url: http://the-whole-story.whatsnous.com
+podcast_album_art: /assets/img/Whole-Story-cover.png
+podcast_title: The Whole Story Podcast
+podcast_owner: Nous Entertainment
+podcast_email: ashernovek@gmail.com
+podcast_category: Technology
+podcast_subcategory_one: Software How-To
+podcast_subcategory_two: Gadgets
+podcast_explicit: "no"
+podcast_author: Asher Novek
+podcast_description: The Whole Story is a podcast modeled after that panel discussion at storytelling festivals that you always miss.
+podcast_summary: "Asher and Julia talk with the most influential and inspirational storytellers and producers on the scene today.  They get to the nitty gritty of storytelling, discuss the words behind the words and dissect what makes a storyteller a storyteller.  You’ve heard the stories, now get the whole story about who they are, what makes them tick, and where their stories come from.
+"
+podcast_subtitle: "The Whole Story, storytelling podcast"
+
+
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
@@ -25,6 +42,8 @@ include: ['_pages']
 relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
 exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules']
 
+gems:
+  - jekyll-seo-tag
 sass:
   style: :compressed
   sass_dir: assets/css

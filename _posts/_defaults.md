@@ -2,8 +2,12 @@
 title:
 published: false
 publish_date: 2016-01-01T12:00:00.000Z
-category: 
+category: podcast
+tags:
 description:
-splash_image_path: splash.jpg
+podcast_link:
+podcast_file_size: 
+podcast_duration:
+podcast_length:
 comments: true
 ---

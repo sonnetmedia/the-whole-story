@@ -1,6 +1,7 @@
 ---
 title: Asher Novek
 type: staff
+slug: asher-novek
 ---
 Asher Novek, co-host,  is a writer, producer, storyteller, and community activist. His day to day work focuses on projects that utilize technology in ways that bridge community groups to local government.  
 

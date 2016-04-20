@@ -1,5 +1,6 @@
 <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
   <header>
+    {{page.category}}
     {% if page.title %}
     <h1 class="entry-title">{{page.title}}</h1>
     {% endif %}
@@ -19,7 +20,14 @@
 {% comment %}Content Below{% endcomment %}
   <div class="entry-content prose">
 
-    {{page.category}}
+
+
+    {% if page.description %}
+
+      <h2>{{ page.description | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
+
+    {% endif %}
+
     {{ content }}
     {% if page.file %}
     <small><a href="/assets/files/{{page.file}}">DOWNLOAD</a></small>
@@ -38,7 +46,7 @@
     {% include articles/comments-twitter.html %}
       {% include global/license-creative-commons.html %}
     {% endif %}
-    
+
 
 
 </article>
