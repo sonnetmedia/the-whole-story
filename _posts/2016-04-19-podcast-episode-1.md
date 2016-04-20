@@ -1,5 +1,5 @@
 ---
-title: Podcast One
+title: Episode 1
 published: true
 date: 2016-04-20T12:00:00.000Z
 category: podcast
