@@ -20,7 +20,11 @@
 {% comment %}Content Below{% endcomment %}
   <div class="entry-content prose">
 
+    {% if page.include_news_item == true %}
 
+    {% include snippets/news-item.html %}
+    <hr />
+    {% endif %}
 
     {% if page.description %}
 
