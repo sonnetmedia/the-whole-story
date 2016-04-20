@@ -1,6 +1,7 @@
 ---
 title: Julia Whitehouse
-type: staff
+type:
+  - staff
 slug: julia-whitehouse
 ---
 
