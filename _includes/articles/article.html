@@ -33,6 +33,18 @@
     {% endif %}
 
     {{ content }}
+
+{% if page.podcast_link %}
+
+
+  <audio controls>
+  <source src="{{ podcast_link }}" type="audio/mpeg">
+</audio>
+<a href="{{ podcast_link }}">
+  <button type="button" name="button">Download</button>
+</a>
+{% endif %}
+
 {% include snippets/subscribe-buttons.html %}
 
     {% if page.file %}

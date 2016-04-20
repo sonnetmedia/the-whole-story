@@ -11,6 +11,12 @@ contributors:
  - adam-scherr
  - asher-novek
  - julia-whitehouse
+
+podcast_link: '//the-whole-story.whatsnous.com/uploads/podcasts/the_whole_story_episode_0_part_1_2016.mp3'
+podcast_file_size: 20.4 MB
+podcast_duration: 14:30
+podcast_length: 20879310
+
 comments: true
 ---
-Copy about the podcast goes here with more details than the description
+Adam, Julia, and Asher get together for the first time to discuss what they love about storytelling, where they started, and what this podcast will be about.
