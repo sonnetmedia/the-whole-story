@@ -1,59 +1,70 @@
-url: http://www.whatsnous.com
-sitename: 'Nous Entertainment, LLC'
-description: 'Storytellers who celebrate the strength and depth of the human intellect and its ability to create joy as well as enact change'
+# Site settings
+title: The Whole Story Podcast
+description: "Over, Under, & Between is a podcast modeled after that panel discussion at storytelling festivals that you always miss. "
 mission_statement: "We are storytellers who celebrate the strength and depth of the human intellect and its ability to create joy as well as enact change. We use film – including theatrical, feature-length, digital and television formats – as our vehicle for distributing inspiring narratives and entertaining stories."
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://the-whole-story.whatsnous.com
 
 categories:
   - podcast
   - updates
 
-#Jekyll Options
-# if using more than one Jekyll instance on your local machine
-# port: 4001
-# paginate tells Jekyll how many posts per page
-# paginate: 1
-# Permalinks
-permalink:  pretty
-# Dependencies
-#Pages - store all pages in the _pages directory
-include: ['_pages']
-relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
-exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules']
 
-sass:
-  style: :compressed
-  sass_dir: assets/css
 
-# dev options (true/false)
-# if site is in production, 'production: true'
-production: true
+## DO NOT EDIT BELOW THIS LINE
+production: false
+# PLUGINS
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-include_addthis_sharing: false
+full_rebuild: true
+timezone: Etc/Zulu
+include:
+  - _pages
+exclude:
+  - readme.md
+  - todo.md
+  - license.md
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - CNAME
+  - node_modules
+  - sass
+  - gulpfile.js
+  - package.json
+  - javascript
+  - vendor
+permalink: pretty
+future: false
+
+# PRODUCTION
+google_analytics_id: UA-30899180-4
 bust_css_cache: true
 
-# options (data)
-google_analytics_id: UA-51919693-6
-disqus_id:
-addthis_id:
-# CONTACT FORM http://getsimpleform.com/
-simple_form_api_token:
-
-# options (social)
-# facebook_id:
-twitter_id: budparr
-
-# navigation options - effects layout/default. May also need options set in sass files
-include_nav-top: true
-include_nav-side-left: false
-include_nav-side-right: false
-
-future: true
-
+# CONTENT
+collections:
+  articles:
+    output: true
+    permalink: '/article/:path/'
 # DEFAULTS
 defaults:
   - scope:
       path: ''
-      type: posts
+      type: pages
+      permalink: /:basename/
     values:
       layout: page
-      splash_image: splash.jpg
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false
