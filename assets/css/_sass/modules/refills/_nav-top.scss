@@ -1,6 +1,6 @@
 header.navigation {
-  $navigation-background: $dark-gray !default;
-  $navigation-background-mobile: #191919;
+  $navigation-background:$purple;// $dark-gray !default;
+  $navigation-background-mobile: $navigation-background;
   $navigation-color: transparentize(white, 0.000001);
   $navigation-color-hover: white;
   $navigation-height: 60px;
@@ -89,11 +89,12 @@ background-color: $navigation-background-mobile; // <--Mobile
 
   ul li {
     background: $navigation-background-mobile;
-    display: inline;
+    display: block;
     line-height: $navigation-height;
     overflow: hidden;
-    padding-right: .8em;
-    text-align: right;
+    padding-left: .8em;
+    line-height: 2;
+    text-align: left;
     width: 100%;
     z-index: 9999;
 

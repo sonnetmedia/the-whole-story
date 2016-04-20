@@ -1,0 +1,16 @@
+{% assign executive = site.contributors | where: 'type', 'executive' %}
+{% assign staff = site.contributors | where: 'type', 'staff' %}
+
+<article class="hentry prose">
+  <h2>Bios</h2>
+  {% for object in executive %}
+    <h3>{{ object.title }}</h3>
+      {{ object.content | markdownify }}
+  {% endfor %}
+
+  {% for object in staff %}
+    <h3>{{ object.title }}</h3>
+      {{ object.content | markdownify }}
+  {% endfor %}
+
+</article>

@@ -5,16 +5,16 @@ class: home
 sharing: false
 published: true
 # category: latest news
-splash_image: splash-the-whole-story.jpg
+splash_image: splash-the-whole-storyx500.png
 ---
 {% include snippets/news-item.html %}
 
 ---
 
-## Through strategic partnerships within the entertainment industry, private equity and venture capital firms, and leading philanthropic organizations, we are committed to providing innovators and artists with channels to communicate their impactful and extraordinary stories.
+## The Whole Story is a podcast modeled after that panel discussion at storytelling festivals that you always miss.   
 
-### Our Story                      
+Asher and Julia talk with the most influential and inspirational storytellers and producers on the scene today.  They get to the nitty gritty of storytelling, discuss the words behind the words and dissect what makes a storyteller a storyteller.  
 
-Our name celebrates the themes represented by the ancient term, Nous: the faculty of the human mind; intellectual understanding of what is true and real; and the concepts of thought and reason.  
+You’ve heard the stories, now get the whole story about who they are, what makes them tick, and where their stories come from.  
 
-We are storytellers who celebrate the strength and depth of the human intellect and its ability to create joy as well as enact change. We use film – including theatrical, feature-length, digital and television formats – as our vehicle for distributing inspiring narratives and entertaining stories.
+
