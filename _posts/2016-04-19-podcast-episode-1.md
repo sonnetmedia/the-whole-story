@@ -6,7 +6,7 @@ category: podcast
 tags:
   - storytelling
   - podcasts
-description: 'Adam Scherr, Asher Novek, Julia Whitehouse, the Whole Story, storytelling podcast'
+description: Julia Whitehouse and Asher Novek discuss the ins and outs of storytelling
 contributors:
   - asher-novek
   - julia-whitehouse
