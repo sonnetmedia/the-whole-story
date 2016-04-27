@@ -9,7 +9,7 @@ description: "Kevin Allison, host and creator of Risk! joins Asher and Julia as 
 contributors:
   - asher-novek
   - julia-whitehouse
-podcast_link_path:
+podcast_link_path: 'https://storage.googleapis.com/the-whole-story/Episode1_KevinAllisonfinal.mp3'
 podcast_file_size: 78.7 MB
 podcast_duration: '5439'
 podcast_length: '78,699,650'
