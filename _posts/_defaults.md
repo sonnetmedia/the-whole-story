@@ -7,7 +7,7 @@ tags:
  -
 description:
 contributors:
-podcast_link:
+podcast_link_path:
 podcast_file_size:
 podcast_duration:
 podcast_length:
