@@ -10,9 +10,9 @@ contributors:
   - asher-novek
   - julia-whitehouse
 podcast_link_path:
-podcast_file_size: '78,700 kb'
-podcast_duration: '54:39'
-podcast_length: '54:39'
+podcast_file_size: 78.7 MB
+podcast_duration: '5439'
+podcast_length: '78,699,650'
 comments: true
 ---
 
