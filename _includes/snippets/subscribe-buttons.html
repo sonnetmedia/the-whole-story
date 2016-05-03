@@ -1,7 +1,7 @@
 <h4 style="margin-top:1.5em;">subscribe</h4>
-<a href="{{ site.itunesLink }}">
+<a href="{{ site.itunesLink }}" onclick=”ga(‘send’, ‘event’, subscribe, click, ‘Podcast – Subscribe iTunes);“>
   <img src="/assets/img/podcast-subscribe-itunes.png" alt="" style="height:35px;" />
 </a>
-<a href="{{ site.url}}/{{ site.feedLink }}">
+<a href="{{ site.url}}/{{ site.feedLink }}" onclick=”ga(‘send’, ‘event’, subscribe, click, ‘Podcast – Subscribe RSS);“>
   <img src="/assets/img/podcast-subscribe-rss.png" alt="" style="height:35px;" />
 </a>
