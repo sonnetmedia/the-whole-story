@@ -1,5 +1,5 @@
 ---
-title: Episode 1
+title: 'Intro Mini Episode #1'
 published: true
 date: 2016-04-20T12:00:00.000Z
 category: podcast
@@ -8,9 +8,9 @@ tags:
   - podcasts
 description: Julia Whitehouse and Asher Novek discuss the ins and outs of storytelling
 contributors:
+  - adam-scherr
   - asher-novek
   - julia-whitehouse
-  - adam-scherr
 podcast_link_path: 'https://storage.googleapis.com/the-whole-story/the_whole_story_episode_0_part_1_2016.mp3'
 podcast_file_size: 20.4 MB
 podcast_duration: 870
