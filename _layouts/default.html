@@ -61,7 +61,7 @@ layout: compress
 
 </head>
 
-<body {% if page.class %}class="{{ page.class}}"{% endif %}>
+<body class="{% if page.class %} {{ page.class}} {% endif %}{{jekyll.environment}}">
   <div class="wrapper">
     {% if site.include_nav-top %}
       {% include nav/nav-top.html %}
