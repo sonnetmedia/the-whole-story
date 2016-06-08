@@ -9,17 +9,17 @@ description: "Hi friends!  Julia and Asher caught up to remind you about our upc
 contributors:
   - asher-novek
   - julia-whitehouse
-podcast_link_path:
-podcast_file_size:
-podcast_duration:
-podcast_length:
+podcast_link_path: 'https://storage.googleapis.com/the-whole-story/Mini%20Promotional%20Episode%20mp3.mp3'
+podcast_file_size: 54.9 MB
+podcast_duration: '2816'
+podcast_length: '54876940'
 comments: true
 ---
 
 
 Hi friends! &nbsp;Julia and Asher caught up to remind you about our upcoming LIVE SHOW on June 16th! &nbsp;
 
-Shout outs to: The Lower East Side Film Festival, Susan Kent, David Crabb, Naked and Afraid, Jaime Brickhouse, and many others.
+Shout outs in this episode to: The Lower East Side Film Festival, Susan Kent, David Crabb, Naked and Afraid, Jaime Brickhouse, and many others.
 
 Please join us for our live show! &nbsp;
 
