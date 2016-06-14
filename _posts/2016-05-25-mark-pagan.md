@@ -23,4 +23,4 @@ Mark Pag&aacute;n is an award-winning storyteller, comedian, multimedia artist, 
 
 Mark’s work and performances have been shown at festivals worldwide including Slamdance Film Festival, Arizona International Film Festival, North Carolina Comedy Arts Festival, Chicago Improv Festival. He performs frequently at The Moth, Upright Citizen's Brigade Theater, Peoples Improv Theater, Magnet Theater, Tell it: Brooklyn, No Name, and Split Personality.
 
-![](/uploads/versions/mark-pagan-salon---x----4686-3124x---.jpg)
+![](/uploads/mark-pagan-salon_comp.jpg)
