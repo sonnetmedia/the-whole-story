@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
-# gem 'jekyll'
-gem 'github-pages'
+gem 'jekyll'
+# gem 'github-pages'
 
 group :jekyll_plugins do
   # gem 'jekyll-assets'
 #   gem 'autoprefixer-rails'
 #   gem 'uglifier'
+gem 'jekyll-livereload'
 gem 'jekyll-seo-tag'
 #   gem "html-proofer"
   # gem "jekyll-lunr-js-search"
