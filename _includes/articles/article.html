@@ -35,7 +35,7 @@
     {% if page.podcast_link_path %}
       <h4>listen</h4>
       <audio controls preload="auto">
-        <source src="{{ page.podcast_link_path }}" type="audio/mpeg">
+        <source src="{{ page.podcast_link_path | replace: 'https://', site.podtrac_prefix }}" type="audio/mpeg">
       </audio>
       <br />
       <a href="{{ page.podcast_link_path | replace: 'https://', site.podtrac_prefix }}"  onclick=”ga(‘send’, ‘event’, audiofile, ‘Download’, ‘Podcast – Download’);“>
