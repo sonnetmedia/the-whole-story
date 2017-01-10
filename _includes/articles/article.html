@@ -38,7 +38,7 @@
         <source src="{{ page.podcast_link_path }}" type="audio/mpeg">
       </audio>
       <br />
-      <a href="{{ page.podcast_link_path }}"  onclick=”ga(‘send’, ‘event’, audiofile, ‘Download’, ‘Podcast – Download’);“>
+      <a href="{{ page.podcast_link_path | replace: 'https://', site.podtrac_prefix }}"  onclick=”ga(‘send’, ‘event’, audiofile, ‘Download’, ‘Podcast – Download’);“>
         download
       </a>
     {% endif %}
