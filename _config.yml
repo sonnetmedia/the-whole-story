@@ -13,8 +13,8 @@ type:
   - guest
   - staff
   - executive
-podtrac_prefix: //dts.podtrac.com/redirect.mp3/
-podcast_url: http://the-whole-story.whatsnous.com
+podtrac_prefix: https://dts.podtrac.com/redirect.mp3/
+podcast_url: https://the-whole-story.whatsnous.com
 podcast_album_art: /assets/img/cover-itunes-the-whole-story.png
 podcast_title: The Whole Story Podcast
 podcast_owner: Nous Entertainment
