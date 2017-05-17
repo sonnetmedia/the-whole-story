@@ -1,5 +1,5 @@
 ---
-title: Season 2 Intro Episode
+title: 'Season 2 coming at ya!'
 published: true
 publish_date: 2017-05-17 00:00:00
 category: podcast
@@ -16,8 +16,6 @@ comments: true
 ---
 
 
-Season 2 is here! &nbsp;Notably, Julia and Asher are back with a new co-host, new shoes, and an excited attitude for all our amazing season 2 interviews. &nbsp;
+Season 2 is here!  Notably, Julia and Asher are back with a new co-host, new shoes, and an excited attitude for all our amazing season 2 interviews.
 
-Season 2 is coming at ya - we're getting real deep into stories, deeper than you could have ever imagined. &nbsp;We got panels, we got live shows, we got interviews on location, we got babies, we got ALL different kinds of stories and wonderful people. &nbsp;
-
-&nbsp;
+Season 2 is coming at ya - we're getting real deep into stories, deeper than you could have ever imagined.  We got panels, we got live shows, we got interviews on location, we got babies, we got ALL different kinds of stories and wonderful people.
