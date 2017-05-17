@@ -1,5 +1,5 @@
 ---
-title: Season 2 INTRO Episode
+title: Season 2 Intro Episode
 published: true
 publish_date: 2016-01-01 12:00:00
 category: podcast
