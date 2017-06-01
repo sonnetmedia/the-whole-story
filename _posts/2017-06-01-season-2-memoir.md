@@ -18,4 +18,4 @@ comments: true
 ---
 
 
-Have you ever thought to yourself: "hey, I could write a book about myself!" &nbsp;Well...let's re-examine that. &nbsp;We sat down with Ophira Eisenberg, David Crabb, and Jamie Brickhouse to talk about their memoirs, their stories, their writing practices, and their favorite places to write. &nbsp;
+Have you ever thought to yourself: "hey, I could write a book about myself!"  Well…let's re-examine that.  We sat down with Ophira Eisenberg, David Crabb, and Jamie Brickhouse to talk about their memoirs, their stories, their writing practices, and their favorite places to write.
