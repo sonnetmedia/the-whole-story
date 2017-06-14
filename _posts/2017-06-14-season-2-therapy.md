@@ -20,9 +20,9 @@ comments: true
 ---
 
 
-Are you in therapy? &nbsp;If not, we'll convince you to by the end of this episode. &nbsp;Julia and Asher sat down in a panel discussion with Julie Threlkeld, Sara Shelton, and Lori Baird to talk about the venn diagram between therapy and storytelling. &nbsp;
+Are you in therapy?  If not, we'll convince you to by the end of this episode.  Julia and Asher sat down in a panel discussion with Julie Threlkeld, Sara Shelton, and Lori Baird to talk about the venn diagram between therapy and storytelling.
 
-Storytelling provides us an opportunity to explore feelings and experiences that are unique, as does therapy. &nbsp;Let's talk about it!
+Storytelling provides us an opportunity to explore feelings and experiences that are unique, as does therapy.  Let's talk about it!
 
 In this episode we heard from:
 
