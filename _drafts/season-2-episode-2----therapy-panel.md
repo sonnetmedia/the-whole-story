@@ -8,7 +8,7 @@ tags:
   - podcasts
   - storytelling
   - panel
-description:
+description: "Are you in therapy?  If not, we'll convince you to by the end of this episode.  Julia and Asher sat down in a panel discussion with Julie Threlkeld, Sara Shelton, and Lori Baird to talk about the venn diagram between therapy and storytelling."
 contributors:
   - julia-whitehouse
   - asher-novek
@@ -19,6 +19,8 @@ podcast_length: '144131398'
 comments: true
 ---
 
+
+Are you in therapy? &nbsp;If not, we'll convince you to by the end of this episode. &nbsp;Julia and Asher sat down in a panel discussion with Julie Threlkeld, Sara Shelton, and Lori Baird to talk about the venn diagram between therapy and storytelling. &nbsp;
 
 Julie Threlkeld is a writer, storyteller, and the producer and host of the podcast Modern Stories Mix, which presents one lovingly recorded and engineered story each episode from some of New York City's best storytellers. She also runs the city's most comprehensive calendar of storytelling events, found at ModernStories.com. She has written about anxiety for The New York Times and about the strange, obsessive world of professional distance running for Runner’s World and Running Times. Her own stories have been featured on the RISK! Show (and podcast), Talk Therapy Stories, The How I Learned Series and many others. She’ll be appearing next on June 6th in the NoName Super Storytellers Edition show at WordUp in Washington Heights, and on July 9th at Badyhouse Storytelling Concert in Brooklyn.
 
