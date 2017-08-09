@@ -1,5 +1,5 @@
 ---
-title: 'Season 2 "Medium"'
+title: 'Season 2: "Medium"'
 published: true
 publish_date: 2016-01-01 12:00:00
 category: podcast
