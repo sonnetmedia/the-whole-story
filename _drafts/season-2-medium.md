@@ -9,7 +9,13 @@ tags:
   - podcast
   - journalism
   - animation
-description:
+description: >-
+  A cartoonist, a journalist, and a bi-sexual filmmaker walk into a bar.  Or
+  wait, a recording studio.  Wait, one of them is also a rabbi. 
+  No...nevermind.  This week we got to talk all about storytelling in different
+  mediums.  From online videos to personal essays to film to animation to
+  podcasts and everything in between.  Be sure to check out all their respective
+  work too!
 contributors:
   - asher-novek
   - julia-whitehouse
@@ -22,3 +28,4 @@ comments: true
 ---
 
 
+A cartoonist, a journalist, and a bi-sexual filmmaker walk into a bar. &nbsp;Or wait, a recording studio. &nbsp;Wait, one of them is also a rabbi. &nbsp;No...nevermind. &nbsp;This week we got to talk all about storytelling in different mediums. &nbsp;From online videos to personal essays to film to animation to podcasts and everything in between. &nbsp;Be sure to check out all their respective work too!
