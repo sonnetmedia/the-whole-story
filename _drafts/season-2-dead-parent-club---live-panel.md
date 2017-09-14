@@ -7,7 +7,7 @@ tags:
   - storytelling
   - deadparentclub
   - livepanel
-description:
+description: "This episode we talked to four members of the DPC (Dead Parent Club) at a live panel. \_Susan, Marc, Sharon, and Robert all share pieces of their lives that are the most vulnerable and hardest to share. \_We talk about the origins of the DPC storytelling community, how dealing with loss through storytelling helps, and advice to all of us who aren't part of the club - but will be one day. \_We also chant \"Susan Kent!\" a few times for good measure."
 contributors:
   - asher-novek
   - julia-whitehouse
@@ -19,9 +19,7 @@ comments: true
 ---
 
 
-This episode we talked to four members of the DPC (Dead Parent Club) at a live panel. &nbsp;
-
-&nbsp;
+This episode we talked to four members of the DPC (Dead Parent Club) at a live panel. &nbsp;Susan, Marc, Sharon, and Robert all share pieces of their lives that are the most vulnerable and hardest to share. &nbsp;We talk about the origins of the DPC storytelling community, how dealing with loss through storytelling helps, and advice to all of us who aren't part of the club - but will be one day. &nbsp;We also chant "Susan Kent!" a few times for good measure. &nbsp;
 
 Robert Commiskey is a writer and storyteller, having performed in the UK and New York. He can currently be seen around New York and is less poor than he was last year.&nbsp;
 
